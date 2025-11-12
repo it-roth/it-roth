@@ -1,12 +1,16 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>
-👯 I’m looking to collaborate on<br>
-🤝 I’m looking for help with<br>
-🌱 I’m currently learning<br>
-💬 Ask me about<br>
-⚡ Fun fact<br><br>
-Hello! I'm Roth 👋.
-I’m a student passionate about technology. In my free time, I build software projects, research new technologies, and continuously improve my programming skills.
+🔭 I’m currently focused on developing web and software applications
+👯 I’m eager to collaborate on innovative tech and open-source projects
+🤝 I’m seeking guidance on building efficient APIs and cloud solutions
+🌱 I’m actively learning microservices, Docker, and cloud deployment strategies
+💬 Ask me about programming, web development, or software engineering
+⚡ Fun fact: I enjoy turning ideas into working applications and exploring new technologies
+
+<br>
+
+Hi! I’m Roth 👋,
+a curious student and budding software developer.
+I spend my free time creating projects, experimenting with new tech, and sharpening my coding skills.
 <a href="#"><img src="q.svg" alt="icon"></a>
 
 
