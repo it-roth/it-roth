@@ -5,8 +5,8 @@
 🌱 I’m currently learning<br>
 💬 Ask me about<br>
 ⚡ Fun fact<br><br>
-Hello! I'm Roth 👋.  
-In my free time, I build software projects, research new technologies, and continuously improve my skills as a tech student.  
+Hello! I'm Roth 👋.
+I’m a student passionate about technology. In my free time, I build software projects, research new technologies, and continuously improve my programming skills.
 <a href="#"><img src="q.svg" alt="icon"></a>
 
 
