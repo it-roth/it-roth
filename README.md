@@ -1,9 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently focused on developing web and software applications
-👯 I’m eager to collaborate on innovative tech and open-source projects
-🤝 I’m seeking guidance on building efficient APIs and cloud solutions
-🌱 I’m actively learning microservices, Docker, and cloud deployment strategies
-💬 Ask me about programming, web development, or software engineering
+🔭 I’m currently focused on developing web and software applications<br>
+👯 I’m eager to collaborate on innovative tech and open-source projects<br>
+🤝 I’m seeking guidance on building efficient APIs and cloud solutions<br>
+🌱 I’m actively learning microservices, Docker, and cloud deployment strategies<br>
+💬 Ask me about programming, web development, or software engineering<br>
 ⚡ Fun fact: I enjoy turning ideas into working applications and exploring new technologies
 
 <br>
