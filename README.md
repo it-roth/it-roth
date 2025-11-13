@@ -13,33 +13,36 @@
 <a href="#"><img src="q.svg" alt="icon"></a>
 ## 💻 Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/NestJS-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white" alt="NestJS" />
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white" alt="Postgres" />
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML5" />
+  
   <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat&logo=spring&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  
 </p>
+
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=it-roth&theme=tokyonight&show_icons=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=it-roth&theme=tokyonight" alt="GitHub Streak" />
-</p>
+# 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=it-roth&theme=tokyonight&layout=compact" alt="Top Languages" />
-</p>
+### 🌟 Overall Contributions
+![](https://github-readme-stats.vercel.app/api?username=it-roth&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+
+### 🔥 Streak Stats
+![](https://github-readme-streak-stats.herokuapp.com/?user=it-roth&theme=tokyonight&hide_border=false)
+
+### 🛠️ Top Languages
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=it-roth&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ---
 
@@ -56,12 +59,11 @@
 </p>
 
 ---
-
-## 😂 Random Dev Meme
-<p align="center">
-  <img src="https://rm.up.railway.app/" width="400px" alt="Dev Meme" />
+<!-- ## 😂 Random Dev Meme >
+<!-- <p align="center">
+  <img src="https://via.placeholder.com/400x300?text=Dev+Meme" width="400px" alt="Dev Meme" />
 </p>
 
 ---
 
-[![Visitor Count](https://visitcount.itsvg.in/api?id=it-roth&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Visitor Count](https://via.placeholder.com/150x30?text=Visitor+Count)](https://visitcount.itsvg.in) -->
