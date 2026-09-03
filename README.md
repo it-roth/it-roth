@@ -13,6 +13,4 @@
 
 - 📫 How to reach me **lengsaroth9@gmail.com**
 
-- 🏃 Follow me now **Hit follow to see what breaks next!**
-
 - ⚡ Fun fact **I turn coffee into bugs and bugs into features.**
