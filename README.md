@@ -5,8 +5,6 @@
   <img src="https://user-images.githubusercontent.com/43299285/146223384-04341fcf-4769-4353-82b1-f3d78f7de611.gif" alt="image-coder"/>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lengsaroth&label=Profile%20views&color=0e75b6&style=flat" alt="lengsaroth" /> </p>
-
 - 🌱 I’m currently researching **DevOps & Cloud Technologies**
 
 - 💬 Ask me about **JavaScript, TypeScript, React, Next.js, Python, Django, PHP, Laravel, Java, Spring Framework, Spring Boot, PostgreSQL, Oracle**
