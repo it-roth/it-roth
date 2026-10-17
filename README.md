@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently researching **Microservices & Big Data**
 
-- 💬 Ask me about **JavaScript, TypeScript, React, Next.js, Python, Django, PHP, Laravel, Java, Spring Framework, Spring Boot, PostgreSQL, Oracle**
+- 💬 Ask me about **Java, Spring Boot, Spring Cloud, Spring WebFlux, Laravel, Python, FastAPI, React, Next.js, Micro-frontends, Turborepo, Microservices Architecture, Kafka, PostgreSQL, Oracle, MongoDB, Cassandra, Docker & Kubernetes**
 
 - 📫 How to reach me **lengsaroth9@gmail.com**
 
