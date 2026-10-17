@@ -11,4 +11,4 @@
 
 - 📫 How to reach me **lengsaroth9@gmail.com**
 
-- ⚡ Fun fact **I turn coffee into bugs and bugs into features.**
+- ⚡ Fun fact **Code today. Scale tomorrow. Build systems that outlast the hype.**
