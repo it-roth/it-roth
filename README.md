@@ -1,23 +1,20 @@
 <pre align="center">
-██╗     ███████╗███╗   ██╗ ██████╗     ███████╗ █████╗ ██████╗  ██████╗ ████████╗██╗  ██╗
-██║     ██╔════╝████╗  ██║██╔════╝     ██╔════╝██╔══██╗██╔══██╗██╔═══██╗╚══██╔══╝██║  ██║
-██║     █████╗  ██╔██╗ ██║██║  ███╗    ███████╗███████║██████╔╝██║   ██║   ██║   ███████║
-██║     ██╔══╝  ██║╚██╗██║██║   ██║    ╚════██║██╔══██║██╔══██╗██║   ██║   ██║   ██╔══██║
-███████╗███████╗██║ ╚████║╚██████╔╝    ███████║██║  ██║██║  ██║╚██████╔╝   ██║   ██║  ██║
-╚══════╝╚══════╝╚═╝  ╚═══╝ ╚═════╝     ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝    ╚═╝   ╚═╝  ╚═╝
+    __    ______ _   ______     _____ ___    ____  ____  ________  __
+   / /   / ____// | / / ____/   / ___//   |  / __ \/ __ \/_  __/ / / /
+  / /   / __/  /  |/ / / __     \__ \/ /| | / /_/ / / / / / / / /_/ / 
+ / /___/ /___ / /|  / /_/ /    ___/ / ___ |/ _, _/ /_/ / / / / __  /  
+/_____/_____//_/ |_/\____/    /____/_/  |_/_/ |_|\____/ /_/ /_/ /_/   
 </pre>
 
-<h3 align="center">Software Engineering at BELTEI | IT Expert 3rd Gen at ISTAD</h3>
+<div align="center">
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Backend+Engineer+%7C+Distributed+Systems;Microservices+Architecture;Resilient.+Distributed.+Scalable.;Software+Architecture" alt="Typing SVG" />
+</a>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/43299285/146223384-04341fcf-4769-4353-82b1-f3d78f7de611.gif" alt="image-coder"/>
+ <img src="https://img.shields.io/badge/FOCUS-Software_Architecture-6db33f?style=for-the-badge&logo=spring&logoColor=white&labelColor=090d16" alt="Focus" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/RESEARCH-Microservice_Architecture_%26_Big_Data_-f97316?style=for-the-badge&logo=apachekafka&logoColor=white&labelColor=090d16" alt="Research" />
 </p>
 
-- 🌱 I’m currently researching **Microservices & Big Data**
-
-- 💬 Ask me about **Java, Spring Boot, Spring Cloud, Spring WebFlux, Laravel, Python, FastAPI, React, Next.js, Micro-frontends, Turborepo, Microservices Architecture, Kafka, PostgreSQL, Oracle, MongoDB, Cassandra, Docker & Kubernetes**
-
-- 📫 How to reach me **lengsaroth9@gmail.com**
-
-- ⚡ Fun fact **Code today. Scale tomorrow. Build systems that outlast the hype.**
-
+</div>
