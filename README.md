@@ -7,7 +7,7 @@
 ███████╗███████╗██║ ╚████║╚██████╔╝    ███████║██║  ██║██║  ██║╚██████╔╝   ██║   ██║  ██║
 ╚══════╝╚══════╝╚═╝  ╚═══╝ ╚═════╝     ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝    ╚═╝   ╚═╝  ╚═╝
 ```
-</div>
+
 <h3 align="center">Software Engineering at BELTEI | IT Expert 3rd Gen at ISTAD</h3>
 
 <p align="center">
@@ -21,3 +21,4 @@
 - 📫 How to reach me **lengsaroth9@gmail.com**
 
 - ⚡ Fun fact **Code today. Scale tomorrow. Build systems that outlast the hype.**
+</div>
